@@ -15,5 +15,3 @@ In addition to my endless train of research ideas that span from new PRO measure
 Previously, I have also established a successful research committee at European Cancer Leagues (ECL) responsible for cancer prevention knowledge translation and managed an international team of experts to deliver [**novel health care policy recommendations**](https://www.healthparliament.eu/hlsc/) for the European Commission.
 
 To read more about the research questions I'm currently exploring click [here](/research/).
-
-***
