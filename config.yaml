@@ -1,6 +1,6 @@
 baseurl: https://kosirurska.github.io
 languageCode: en-us
-title: Urska Kosir, DPhil
+title: Urška Košir, DPhil
 theme: "hugo-ivy"
 googleAnalytics: ""
 disqusShortname: ""
@@ -14,24 +14,24 @@ permalinks:
 
 menu:
   main:
-    - name: "Home"
+    - name: "Hi"
       url: "/"
       weight: 1
-    - name: "About"
+    - name: "Blog"
       url: "/about/"
       weight: 2
-    - name: "Categories"
+    - name: "Research"
       url: "/categories/"
       weight: 3
-    - name: "Tags"
-      url: "/tags/"
+    - name: "CV"
+      url: "/cv/cv_urska_website_feb2022.pdf"
       weight: 4
     - name: "Subscribe"
       url: "/index.xml"
 
 params:
-  description: "A Hugo theme ported from the static site generator Ivy."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 | [Github](https://github.com/yihui)"
+  description: " "
+  footer: "&copy; [Dr. Košir](/) 2021 | [email](mailto:dr.urska.kosir@gmail.com) | [LinkdIn](https://www.linkedin.com/in/urska-kosir/) | [Twitter](https://twitter.com/UrskaKosir) | [Google Scholar](https://scholar.google.com/citations?user=xobwcaQAAAAJ&hl=en) | [GitHub](https://github.com/kosirurska)"
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"
