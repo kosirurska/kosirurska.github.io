@@ -1,4 +1,3 @@
-# kosirurska.github.io
-web
+# [https://urska-kosir.netlify.app/](https://urska-kosir.netlify.app/)
 
-let's see if this works
+Personal website - all feedback welcome :)
