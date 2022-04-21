@@ -24,7 +24,7 @@ menu:
       url: "/research/"
       weight: 3
     - name: "CV"
-      url: "/cv/cv_urska_website_feb2022.pdf"
+      url: "/cv/cv_urska_website_apr2022.pdf"
       weight: 4
     - name: "Code"
       url: "/code/"
