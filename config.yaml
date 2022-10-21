@@ -21,7 +21,7 @@ menu:
       url: "/blog/"
       weight: 2
     - name: "About my work"
-      url: "/research/"
+      url: "/work/"
       weight: 3
     - name: "Publications"
       url: "/cv/Publication_master.pdf"
