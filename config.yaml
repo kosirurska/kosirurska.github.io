@@ -20,11 +20,12 @@ menu:
     - name: "Blog"
       url: "/blog/"
       weight: 2
-    - name: "Research"
+    - name: "About my work"
       url: "/research/"
       weight: 3
-    - name: "CV"
-      url: "/cv/cv_urska_website_apr2022.pdf"
+    - name: "Publications"
+      url: "/cv/Publication_master.pdf"
+      # url: "/cv/cv_urska_website_apr2022.pdf"
       weight: 4
     - name: "Code"
       url: "/code/"
