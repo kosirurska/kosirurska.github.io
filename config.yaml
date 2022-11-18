@@ -32,7 +32,7 @@ menu:
 
 params:
   description: "Departmental lecturer @Oxford University | Research Fellow @McGill University"
-  footer: "&copy; [Dr. Košir](/) 2021 | [email](mailto:dr.urska.kosir@gmail.com) | [LinkdIn](https://www.linkedin.com/in/urska-kosir/) | [Twitter](https://twitter.com/UrskaKosir) | [Google Scholar](https://scholar.google.com/citations?user=xobwcaQAAAAJ&hl=en) | [GitHub](https://github.com/kosirurska)"
+  footer: "&copy; [Dr. Košir](/) 2021 | [email](mailto:dr.urska.kosir@gmail.com) | [LinkdIn](https://www.linkedin.com/in/urska-kosir/) | [Google Scholar](https://scholar.google.com/citations?user=xobwcaQAAAAJ&hl=en) | [GitHub](https://github.com/kosirurska)"
   highlightjsCDN: "//cdn.bootcss.com"
   highlightjsLang: ["r", "yaml", "tex"]
   highlightjsTheme: "github"
